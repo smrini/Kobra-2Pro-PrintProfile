@@ -42,7 +42,7 @@
 <table>
 <tr>
 <td><img width="400" height="auto" alt="Print result 1" src="PLA/1736473019037.jpg"></td>
-<td><img width="400" height="auto" alt="Print result 2" src="PLA/1736473144765.jpg"></td>
+<td><img width="400" height="auto" alt="Print result 2" src="PLA/1736544236667.jpg"></td>
 <td><img width="400" height="auto" alt="Print result 2" src="PLA/1736473144758.jpg"></td>
 </tr>
 <tr>
