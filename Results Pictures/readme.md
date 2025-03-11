@@ -74,3 +74,31 @@
 </tr>
 </table>
 </div>
+
+#### PETG Prints
+They may look the same, but these are different simples
+
+<div align="center">
+<table>
+<tr>
+<td><img width="400" height="auto" alt="Print result 1" src="PETG/1737930942966.jpg"></td>
+<td><img width="400" height="auto" alt="Print result 2" src="PETG/1737930942974.jpg"></td>
+<td><img width="400" height="auto" alt="Print result 2" src="PETG/1737930942974.jpg"></td>
+</tr>
+<tr>
+<td><img width="400" height="auto" alt="Print result 1" src="PETG/1737930942988.jpg"></td>
+<td><img width="400" height="auto" alt="Print result 2" src="PETG/1737930942994.jpg"></td>
+<td><img width="400" height="auto" alt="Print result 3" src="PETG/1737930943001.jpg"></td>
+</tr>
+<tr>
+<td><img width="400" height="auto" alt="Print result 1" src="PETG/1737930943009.jpg"></td>
+<td><img width="400" height="auto" alt="Print result 3" src="PETG/1737930943047.jpg"></td>
+<td><img width="400" height="auto" alt="Print result 2" src="PETG/1737930943055.jpg"></td>
+</tr>
+<tr>
+<td><img width="400" height="auto" alt="Print result 1" src="PETG/1737930943186.jpg"></td>
+<td><img width="400" height="auto" alt="Print result 3" src="PETG/1737930943186.jpg"></td>
+<td><img width="400" height="auto" alt="Print result 2" src="PETG/1737930943204.jpg"></td>
+</tr>
+</table>
+</div>
